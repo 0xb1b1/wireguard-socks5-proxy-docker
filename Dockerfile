@@ -16,3 +16,4 @@ COPY ./sockd.conf /etc/
 COPY ./entrypoint.sh /entrypoint.sh
 
 ENTRYPOINT "/entrypoint.sh"
+
